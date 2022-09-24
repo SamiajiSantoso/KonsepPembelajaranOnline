@@ -19,6 +19,14 @@
 
 | Dari Ketiga Definisi Online Learning di atas, apa kesimpulan Anda tentang Online Learning tersebut?                  |
 | :------------------------------------------------------------------------------------------------------------------: |
-|                                                             ?                                                         |
+|                                                             ?                                                        |
 
 ## Kegiatan Belajar 3
+
+| Aspek dalam 21st Centry Skill yang relevan dengan Online Learning  | Penafsiran (Analisis Anda)               |
+| ------------------------------------------------------------------ | ---------------------------------------- |
+| Aspek-1                                                            |                                          |
+| Aspek-2                                                            |                                          |
+| Aspek-3                                                            |                                          |
+| Aspek-4                                                            |                                          |
+| Aspek-5                                                            |                                          |
