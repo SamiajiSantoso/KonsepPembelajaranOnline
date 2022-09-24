@@ -13,7 +13,11 @@
 
 | Definisi Online Learning (Tuliskan Nama Jurnalnya)         | Analisis dan berikan penefsiran Pada Kolom di bawah ini |
 | ---------------------------------------------------------- | ------------------------------------------------------- |
-| Definisi I                                                 |                                                         |
+| Definisi I 
+- First item
+- Second item
+- Third item
+- Fourth item                                                |                                                         |
 | Definisi II                                                |                                                         |
 | Definisi III                                               |                                                         |
 
