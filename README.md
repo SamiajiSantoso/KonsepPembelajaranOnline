@@ -13,13 +13,13 @@
 
 | Definisi Online Learning (Tuliskan Nama Jurnalnya)         | Analisis dan berikan penefsiran Pada Kolom di bawah ini |
 | ---------------------------------------------------------- | ------------------------------------------------------- |
-| Definisi I                                                 |                                                         |
-| Definisi II                                                |                                                         |
-| Definisi III                                               |                                                         |
+| Internet and Higher Education(2011) | Pendidikan jarak jauh memiliki sejarah yang membentang hampir dua abad (Spector, Merrill, Merrienboer, & Driscoll, 2008), dan periode waktu ini merupakan perubahan signifikan dalam bagaimana pembelajaran terjadi dan dikomunikasikan. Dari korespondensi dasar melalui layanan pos hingga berbagai macam alat yang tersedia melalui Internet, masyarakat telah menerima bentuk komunikasi baru selama bertahun-tahun. Salah satu bentuk tersebut, pembelajaran online, diketahui memiliki sejarah akses yang dimulai pada tahun 1980-an sedangkan istilah lain, disebut sebagai e-Learning, tidak memiliki asal-usulnya sepenuhnya diungkapkan (Harasim, 2000). Sebagai peneliti dan desainer memanfaatkan teknologi yang muncul ini, kami menemukan bahwa penggunaan terminologi yang santai membuat sulit untuk merancang dan mengevaluasi lingkungan belajar yang serupa tanpa memahami karakteristik spesifik (Phipps & Merisotis, 1999). Desain berbagai jenis lingkungan belajar dapat bergantung pada tujuan pembelajaran, audiens target, akses (fisik, virtual dan/atau keduanya), dan jenis konten. Penting untuk mengetahui bagaimana lingkungan belajar digunakan, dan pengaruh alat dan teknik yang membedakan perbedaan hasil belajar seiring dengan berkembangnya teknologi. |
+| EXPLORING COLLABORATIVE ONLINE LEARNING(2001) | Perubahan baik dalam tingkat pendanaan dan profil siswa telah menyebabkan peningkatan penekanan pada penggunaan metode penyampaian kursus yang fleksibel di pendidikan tinggi dan sebagai bagian dari tren itu, ada peningkatan minat dalam penggunaan Teknologi Komunikasi dan Informasi (TIK). Ketersediaan sumber belajar yang fleksibel pada gilirannya menyebabkan peningkatan penggunaan metode penyampaian fleksibel berbasis CIT untuk mahasiswa di kampus. Hal ini menimbulkan pertanyaan tentang efek dari metode ini pada kualitas interaksi antara siswa dan antara siswa dan staf pengajar. Dalam makalah ini kami membahas salah satu pertanyaan yang berfokus pada interaksi siswa-siswa dalam sistem penyampaian yang fleksibel. |
+| Online Learning with Kernels(2004) | Metode KERNEL telah terbukti berhasil di banyak pengaturan batch (Mendukung Mesin Vektor, Proses Gaussian, Jaringan Regularisasi). Sementara seseorang dapat menerapkan algoritma batch dengan memanfaatkan buffer geser, akan jauh lebih baik untuk memiliki algoritma yang benar-benar online. Namun perluasan metode kernel ke pengaturan online di mana data tiba secara berurutan telah terbukti memberikan beberapa tantangan yang sampai sekarang belum terpecahkan. |
 
 | Dari Ketiga Definisi Online Learning di atas, apa kesimpulan Anda tentang Online Learning tersebut?                  |
 | :------------------------------------------------------------------------------------------------------------------: |
-|                                                             ?                                                        |
+| ? |
 
 ## Kegiatan Belajar 3
 
