@@ -13,9 +13,9 @@
 
 | Definisi Online Learning (Tuliskan Nama Jurnalnya)         | Analisis dan berikan penefsiran Pada Kolom di bawah ini |
 | ---------------------------- | --------------------------- |
-| Definisi I
-Judul Artikel :
-Sumber (Jurnal)
+| Definisi I                   |                             |
+Judul Artikel :                |                             |
+Sumber (Jurnal)                |                             |
 Tahun :                        |                             |
 | Definisi II
 Judul Artikel :
