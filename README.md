@@ -9,18 +9,6 @@
 | Pola Guru dan Media | Pola(guru)+(media) dengan siswa. Pola pembelajaran ini sudah mempertimbangkan keterbatasan guru yang tidak mungkin menjadi satu-satunya sumber belajar dalam kegiatan pembelajaran, guru dapat memanfaatkan berbagai media pembelajaran sebagai sumber belajar yang dapat menggantikan guru dalam pembelajaran, jadi siswa dapat memperoleh informasi dari berbagai media sebagaii sumber belajar, misalnya dari majalah, modul, siaran radio pembelajaran, televisi pembelajaran, media komputer dan internet. Pola ini merupakan pola pembelajaran bergantian antara guru an medai berinteraksi dengan siswa. |
 | Pola Bermedia | Pola pembelajaran media dengan siswa atau pola pembelajaran jarak jauh menggunakan media atau bahan pembelajaran yang disiapkan bahan atau materi pembelajaran apa saja yang kemudian bahan tersebut diaplikasikan pada media sebagai seumber belajar siswa yang utama. |
 
-## Tes Formatif 1
-
-1. ?
-  1. ?
-  2. ?
-  3. ?
-  4. ?
-2. ?
-3. ?
-4. ?
-5. ?
-
 ## Kegiatan Belajar 2
 
 | Definisi Online Learning (Tuliskan Nama Jurnalnya) | Analisis dan berikan penefsiran Pada Kolom di bawah ini |
